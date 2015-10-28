@@ -1,6 +1,7 @@
-if true ; then ; end
-
-if (1>0)
-puts "dkfj"
+if $0=nil
+puts "kdfj";
 end
 
+a="abc"
+b="123"
+puts a,b
