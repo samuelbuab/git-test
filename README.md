@@ -1,22 +1,7 @@
-if true ; then ; end
+if $0=nil
+puts "kdfj";
+end
 
-unless !(1>0)
-puts "dkfj" ;end
-
-
-function main(a, b) {
-  switch (cond) {
-  case "one":
-    doSomething(); // JSHint will warn about missing 'break' here.
-  case "three":
-    doSomethingElse();
-  case "two":
-
-    doSomethingElse();
-  }
-
-// test for deleting old comments. 
-
-
-  return a == null;
-}
+a="abc"
+b="123"
+puts a,b
