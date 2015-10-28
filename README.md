@@ -1,6 +1,7 @@
 if true ; then ; end
 
-if (1>0)
-puts "dkfj"
-end
+unless !(1>0)
+puts "dkfj" ;end
+
+
 
